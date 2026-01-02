@@ -4,7 +4,7 @@
 Electro Care is a **web-based electricity billing management system** that automates meter reading, bill generation, and complaint handling for the **Ceylon Electricity Board (CEB)**.  
 It combines **OCR + deep learning**, **barcode validation**, and a **role-based web portal** to streamline monthly electricity billing for both customers and CEB staff.
 
-> 🧑‍🎓 Originally developed as an undergraduate group project at the **Department of ICT, University of Sri Jayewardenepura (Batch 18).**
+> 🧑‍🎓 Originally developed as an undergraduate group project at the **Department of ICT, University of Sri Jayewardenepura.**
 
 ---
 
